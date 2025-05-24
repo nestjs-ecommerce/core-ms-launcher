@@ -1,2 +1,3 @@
 nats-server
 postgres
+.env
